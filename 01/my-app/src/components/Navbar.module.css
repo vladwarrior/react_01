@@ -1,0 +1,15 @@
+
+
+
+.nav{
+    grid-area: n;
+    background-color: rgb(155, 179, 224);
+    height: 600px;
+    margin-right: 5px;
+    margin-top: 5px;
+    padding-left: 15px;
+    color: rgb(255, 255, 255);
+}
+.nav div{
+    margin-bottom: 10px;
+}
